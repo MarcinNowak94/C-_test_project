@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\cwiczenia">
+      <UniqueIdentifier>{df57951f-1c1c-4e73-9728-6e624e01b325}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Wyzwania">
+      <UniqueIdentifier>{47eb532c-e996-49fe-8e68-3654bfe3ea19}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+    <Text Include="pliki\przykladowy.txt" />
+    <Text Include="pliki\liczbowy.txt" />
+    <Text Include="pliki\tekstowy.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="second.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Silnia_rekurencyjnie.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Simplemenu.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="001.Projekt_testowy_c++.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="second.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="New_Menu.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="formatowanie_tekstu_konsola.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+    <ClCompile Include="rozmiar_typow_danych.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+    <ClCompile Include="post_vs_preinkrementacja.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+    <ClCompile Include="kolory_w_konsoli.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+    <ClCompile Include="praca_z_tekstem.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+    <ClCompile Include="obsluga_plikow.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+    <ClCompile Include="Wektory.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+    <ClCompile Include="Test_klasy.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+    <ClCompile Include="silnia_rekurencyjnie.cpp">
+      <Filter>Pliki źródłowe\Wyzwania</Filter>
+    </ClCompile>
+    <ClCompile Include="Towers_of_Hanoi.cpp">
+      <Filter>Pliki źródłowe\Wyzwania</Filter>
+    </ClCompile>
+    <ClCompile Include="Departamenty.cpp">
+      <Filter>Pliki źródłowe\Wyzwania</Filter>
+    </ClCompile>
+    <ClCompile Include="Zgadywanie_liczby_losowej.cpp">
+      <Filter>Pliki źródłowe\Wyzwania</Filter>
+    </ClCompile>
+    <ClCompile Include="05_liczby_losowe.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+    <ClCompile Include="Bankomat.cpp">
+      <Filter>Pliki źródłowe\Wyzwania</Filter>
+    </ClCompile>
+    <ClCompile Include="CLS.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Random_NumAlert.cpp">
+      <Filter>Pliki źródłowe\cwiczenia</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
