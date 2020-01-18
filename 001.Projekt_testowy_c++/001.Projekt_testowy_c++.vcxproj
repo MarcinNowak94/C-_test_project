@@ -154,6 +154,7 @@
     <ClCompile Include="CLS.cpp" />
     <ClCompile Include="Departamenty.cpp" />
     <ClCompile Include="kolory_w_konsoli.cpp" />
+    <ClCompile Include="Kostka.cpp" />
     <ClCompile Include="New_Menu.cpp" />
     <ClCompile Include="obsluga_plikow.cpp" />
     <ClCompile Include="post_vs_preinkrementacja.cpp" />

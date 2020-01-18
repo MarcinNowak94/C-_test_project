@@ -32,6 +32,7 @@ int main()
 		"Obsluga plikow",
 		"Wektory",
 		"Klasy i obiekty",
+		"Kostka",
 		"ESC aby wrrocic do menu"//, "x aby zamknac program"
 	};
 	int zmienna_globalna = 0, cursorposition = 0, maxoptions=0;
@@ -88,6 +89,8 @@ int main()
 											case 6: obsluga_plikow(); break;
 											case 7: Wektory(); break;
 											case 8: Test_klasy(); break;
+											case 9: kostka(); break;
+
 											default:break;
 										};
 								} while (subinput != 'x' && 'X' && 27);

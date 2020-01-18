@@ -104,5 +104,8 @@
     <ClCompile Include="Random_NumAlert.cpp">
       <Filter>Pliki źródłowe\cwiczenia</Filter>
     </ClCompile>
+    <ClCompile Include="Kostka.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
